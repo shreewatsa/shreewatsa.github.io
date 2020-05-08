@@ -1,52 +1,48 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Shreewatsa Timalsena",
+    "label": "Softwaer Engineer",
+    "picture": "https://shreewatsa.github.io/template/images/profile_picture.jpeg",
+    "email": "shreewatsa@gmail.com",
+    "phone": "",
+    "website": "https://shreewatsa.com.np",
+    "summary": "Having computer science background, I am passionate about learning and exploring software development.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "44600",
+      "city": "Lalitpur",
+      "countryCode": "NP",
+      "region": "Kathmandu Valley"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "shreewatsa",
+        "url": "https://github.com/shreewatsa/"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "www.linkedin.com/in/shreewatsa"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": "#"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": "#"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "software engineering",
     },
     {
-      "name": "data mining",
+      "name": "data science",
       "keywords": [
       ]
     },
@@ -54,7 +50,12 @@
       "name": "artificial intelligence",
       "keywords": [
       ]
-    }
+    },
+    {
+      "name": "playing chess, football",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
